@@ -16,3 +16,5 @@ Periodo definido para leitura da analógica:
 
 Tamanho da fila: 
 * 32 bytes (uint8_t).
+
+Disponibilizados o diretório do projeto e um arquivo compactado contendo o projeto, para facilitar o import do projeto no CubeMX.
